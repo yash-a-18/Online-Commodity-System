@@ -1,0 +1,38 @@
+// Counter Section
+.counter-section{
+    background: url(../img/background/counter.jpg);
+    background-attachment: fixed;
+    overflow: hidden;
+    position: relative;
+    &:before{
+    	content: '';
+    	position: absolute;
+    	top: 0;
+    	bottom: 0;
+    	width: 100%;
+    	height: 100%;
+    	background: rgba(0, 0, 0, 0.5);
+    }
+	.counter {
+		padding: 30px 0;
+		.icon{
+			margin-bottom: 30px;
+			i{
+			    font-size: 60px;
+			    color: $preset;
+			}
+		}
+		.counterUp{
+			color: #fff;
+			font-size: 42px;
+			font-weight: $bold;
+			margin-bottom: 20px;
+		}
+		p{
+			font-size: 18px;
+		    color: #fff;
+		    font-weight: 400;
+		}
+	}
+
+}
