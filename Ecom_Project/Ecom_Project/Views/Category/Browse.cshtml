@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Ecom_Project.Models.Item>
+
+@{
+    ViewData["Title"] = "Browse";
+}
+
+<h1>Browse: @ViewBag.categoryName</h1>
+<div class="row ml-3">
+    @foreach (var item in Model)
+    {
+        if (item.CategoryId == ViewBag.id)
+        {
+    <div class="card ml-5 shadow-lg p-3 mb-5 bg-white rounded" style="        width: 18rem; margin-top: 10vh;">
+        <img src="~/Images/@item.itemURl" class="card-img-top" height="250" width="200" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@item.Title</h5>
+            <p class="card-text"><strong>Price: </strong>@item.price</p>
+            <a class="btn btn-warning" href="@Url.Action("Details","Category",new { id = item.ItemId })">View Details </a>
+
+        </div>
+    </div>
+        }
+    }
+</div>
+<hr />
+<div class="mt-5">
+    <a href="@Url.Action("Index",new { category=ViewBag.categoryName})">Back to List</a>
+</div>

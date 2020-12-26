@@ -1,0 +1,303 @@
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.csprojAssemblyReference.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.AssemblyInfoInputs.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.AssemblyInfo.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.csproj.CoreCompileInputs.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.MvcApplicationPartsAssemblyInfo.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorAssemblyInfo.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorAssemblyInfo.cs
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\appsettings.Development.json
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\appsettings.json
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.exe
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.deps.json
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.runtimeconfig.json
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.runtimeconfig.dev.json
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ref\Ecom_Project.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.pdb
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.Views.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.Views.pdb
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\staticwebassets\Ecom_Project.StaticWebAssets.Manifest.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\staticwebassets\Ecom_Project.StaticWebAssets.xml
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\scopedcss\bundle\Ecom_Project.styles.css
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.TagHelpers.input.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.TagHelpers.output.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorCoreGenerate.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Category\Browse.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Create.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Delete.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Details.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Edit.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Index.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorTargetAssemblyInfo.cache
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorTargetAssemblyInfo.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.Views.pdb
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.csproj.CopyComplete
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.dll
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\ref\Ecom_Project.dll
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.pdb
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.genruntimeconfig.cache
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Humanizer.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.csprojAssemblyReference.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.AssemblyInfoInputs.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.AssemblyInfo.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.csproj.CoreCompileInputs.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.MvcApplicationPartsAssemblyInfo.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorAssemblyInfo.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorAssemblyInfo.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\ref\Ecom_Project.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\appsettings.Development.json
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\appsettings.json
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.exe
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.deps.json
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.runtimeconfig.json
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.runtimeconfig.dev.json
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ref\Ecom_Project.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.Views.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Ecom_Project.Views.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Humanizer.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\staticwebassets\Ecom_Project.StaticWebAssets.Manifest.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\staticwebassets\Ecom_Project.StaticWebAssets.xml
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\scopedcss\bundle\Ecom_Project.styles.css
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.TagHelpers.input.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.TagHelpers.output.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorCoreGenerate.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Account\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Category\Browse.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorTargetAssemblyInfo.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.RazorTargetAssemblyInfo.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.Views.pdb
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.csproj.CopyComplete
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Ecom_Project.genruntimeconfig.cache
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Create.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Delete.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Details.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Edit.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\PostAnAdd\Create.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\PostAnAdd\Delete.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\PostAnAdd\Details.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\PostAnAdd\Edit.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\PostAnAdd\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Checkout\CreateOrder.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Checkout\OrderDetails.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Checkout\OrderHistory.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddCategories\Create.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddCategories\Delete.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddCategories\Details.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddCategories\Edit.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddCategories\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddSellers\Create.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddSellers\Delete.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddSellers\Details.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddSellers\Edit.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\AddSellers\Index.cshtml.g.cs
+D:\d drive\MY PROFILE\Projects\C#\Online Commodity Application\Ecom_Project\Ecom_Project\obj\Debug\net5.0\Razor\Views\Manager\AllOrders.cshtml.g.cs

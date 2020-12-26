@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Ecom_Project.Models.OrderDetail>
+
+@{
+    ViewData["Title"] = "OrderDetails";
+}
+
+
+<h3>Previous Order History</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Item)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.unitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.OrderId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.OrderDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Order.Email)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.unitPrice)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.OrderId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.OrderDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Order.Email)
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

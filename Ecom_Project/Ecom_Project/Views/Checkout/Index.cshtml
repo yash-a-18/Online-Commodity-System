@@ -1,0 +1,80 @@
+﻿@model Ecom_Project.ViewModels.OrderViewModel
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<h1>Placing Order</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="@Model.order.FullName" class="control-label"></label>
+                <input asp-for="@Model.order.FullName" class="form-control" value="@Model.user.FullName" required />
+                <span asp-validation-for="@Model.order.FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.Email" class="control-label"></label>
+                <input asp-for="@Model.order.Email" class="form-control" value="@Model.user.Email" hidden />
+                <input type="text" class="form-control" value="@Model.user.Email" disabled />
+                <span asp-validation-for="@Model.order.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.Address" class="control-label"></label>
+                <input asp-for="@Model.order.Address" class="form-control" value="@Model.user.Address" required />
+                <span asp-validation-for="@Model.order.Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.City" class="control-label"></label>
+                <input asp-for="@Model.order.City" class="form-control" value="@Model.user.City" required />
+                <span asp-validation-for="@Model.order.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.State" class="control-label"></label>
+                <input asp-for="@Model.order.State" class="form-control" value="@Model.user.State" required />
+                <span asp-validation-for="@Model.order.State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.PostalCode" class="control-label"></label>
+                <input asp-for="@Model.order.PostalCode" class="form-control" required />
+                <span asp-validation-for="@Model.order.PostalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.Country" class="control-label"></label>
+                <input asp-for="@Model.order.Country" class="form-control" required />
+                <span asp-validation-for="@Model.order.Country" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.Phone" class="control-label"></label>
+                <input asp-for="@Model.order.Phone" class="form-control" value="@Model.user.Mobileno" required />
+                <span asp-validation-for="@Model.order.Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.Total" class="control-label"></label>
+                <input asp-for="@Model.order.Total" class="form-control" value="@Model.Total" hidden />
+                <input type="text" class="form-control" value="@Model.Total" disabled />
+                <span asp-validation-for="@Model.order.Total" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.order.OrderDate" class="control-label"></label>
+                <input asp-for="@Model.order.OrderDate" class="form-control" value="@ViewBag.datetime" hidden />
+                <input type="text" class="form-control" value="@ViewBag.datetime" disabled />
+                <span asp-validation-for="@Model.order.OrderDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Place Order" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="Index" asp-controller="ShoppingCart">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,68 @@
+﻿@model Ecom_Project.Models.Item
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Item</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ItemId" />
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SellerId" class="control-label"></label>
+                <select asp-for="SellerId" class="form-control" asp-items="ViewBag.SellerId"></select>
+                <span asp-validation-for="SellerId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" required/>
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="itemURl" class="control-label"></label>
+                <input asp-for="itemURl" class="form-control"  value="@Model.itemURl" hidden />
+                <input type="text" class="form-control mb-1" value="@Model.itemURl" disabled />
+                <img src="~/Images/@Model.itemURl" height="250px" width="250px" />
+                <span asp-validation-for="itemURl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" required/>
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OwnerEmail" class="control-label"></label>
+                <input asp-for="OwnerEmail" class="form-control" value="@ViewBag.OwnerEmail" hidden />
+                <input type="text" class="form-control" value="@ViewBag.OwnerEmail" disabled />
+                <span asp-validation-for="OwnerEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OwnerName" class="control-label"></label>
+                <input asp-for="OwnerName" class="form-control" value="@ViewBag.OwnerName" hidden />
+                <input type="text" class="form-control" value="@ViewBag.OwnerName" disabled />
+                <span asp-validation-for="OwnerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

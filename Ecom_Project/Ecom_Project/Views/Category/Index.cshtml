@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Ecom_Project.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Browse Category</h2>
+<p>
+    Select from @Model.Count()
+    Genres:
+</p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.categoryName)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+                <tr>
+                    <td>
+                        @Html.ActionLink(category.categoryName, "Browse", new { category = category.categoryName })
+                    </td>
+                    <td>
+                    </td>
+                </tr>
+         }
+        </tbody>
+</table>

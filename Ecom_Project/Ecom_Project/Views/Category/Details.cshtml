@@ -1,0 +1,54 @@
+﻿@model Ecom_Project.Models.Item
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<div>
+    <img src="~/Images/@Model.itemURl" height="250" width="200"/>
+</div>
+<div>
+    <h4>Item</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.itemURl)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.itemURl)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.category.categoryName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.category.categoryName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.seller.sellerName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.seller.sellerName)
+        </dd>
+
+        <dd class="btn btn-success col-sm-2 ml-3">
+            @Html.ActionLink("Add to cart", "AddToCart",
+             "ShoppingCart", new { id = Model.ItemId }, new { style = "color: White; text-decoration:none" })
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
